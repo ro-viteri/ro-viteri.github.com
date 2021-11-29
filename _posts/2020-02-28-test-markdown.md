@@ -1,78 +1,36 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Mas sobre mi...
+subtitle: ¡Sin miedo al exito!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
+Nombre:	Roberth Alexander Viteri Calvache	    
+- 	Lugar de Nacimiento:	Quito
+Edad:	25 años	    
+- 	Género:	Masculino
+Cédula:	172687118-7	    
+- 	Fecha de Nacimiento:	25/03/1995
+Email Institucional:	roberth.viteri@unach.edu.ec	    
+- 	Celular:	0983923313
+ESTUDIOS REALIZADOS
+
+Educación Primaria: Escuela 23 de Mayo.
+Educación Secundaria: Colegio Nacional Juan Pio Montufar
+Educación Superior: Universidad Nacional de Chimborazo
+Cursos realizados:
+Programación base en Php.
 **Here is some bold text**
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+## Hobbie
 
 
-How about a yummy crepe?
+![Crepe](https://espaciodeportes.com/wp-content/uploads/mma-artes-marciales-mixtas-600x337.jpg)
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+![Crepe](https://www.aauniv.com/s/blog/wp-content/uploads/2020/03/empezar-estudiar-en-linea-en-casa-1280x720.jpg){: .mx-auto.d-block :}
